@@ -2,7 +2,7 @@
 Using meanshift and camshift algorithm to track an object.
 
 ## ALGORITHMS
-Meanshift algorithm let's you track an object but tracking window is static.
+Meanshift algorithm let's you track an object but tracking window is static. Camshift algorithm solves this by scaling tracking window for the whole tracking sequence.
 
 ## USAGE
 Mark object which you want to track with your mouse, object must located within borders. Then watch how algorithm will track your object.
